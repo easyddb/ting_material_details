@@ -5,8 +5,8 @@ core = 7.x
 
 projects[ting][type] = "module"
 projects[ting][download][type] = "git"
-projects[ting][download][url] = "git@github.com:ding2/ting.git"
-projects[ting][download][tag] = "7.x-2.0.0"
+projects[ting][download][url] = "git@github.com:easyddb/ting.git"
+projects[ting][download][tag] = "7.x-2.0.0+easy"
 
 ; Contrib modules
 
